@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reemuwu
+- 👋 Hi, I’m @IIraeII
 - 👀 I’m interested in every thing cs, machine learning, and graphic designing. 
 - 🌱 I’m currently learning cs, and python
 - 💞️ I’m looking to collaborate on idk xd
